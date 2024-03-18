@@ -1,4 +1,4 @@
-{
+[{
     "restaurant": {
         "name": "Gather & Feast",
         "description": "Un restaurant qui se distingue par son ambiance chaleureuse et son engagement envers une cuisine de qualité. Situé au cœur de la ville, Gather & Feast offre une expérience culinaire inoubliable pour les amateurs de bonne nourriture.",
@@ -149,4 +149,4 @@
             }
         ]
     }
-}
+}]
