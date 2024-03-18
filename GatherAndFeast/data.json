@@ -1,0 +1,152 @@
+{
+    "restaurant": {
+        "name": "Gather & Feast",
+        "description": "Un restaurant qui se distingue par son ambiance chaleureuse et son engagement envers une cuisine de qualité. Situé au cœur de la ville, Gather & Feast offre une expérience culinaire inoubliable pour les amateurs de bonne nourriture.",
+        "location": "123 Rue de la Gastronomie, 75001 Paris",
+        "contact": {
+            "phone": "+33 1 23 45 67 89",
+            "email": "info@gatherandfeast.com"
+        },
+        "website": "https://www.gatherandfeast.com",
+        "social_media": {
+            "facebook": "https://www.facebook.com/gatherandfeast",
+            "instagram": "https://www.instagram.com/gatherandfeast",
+            "twitter": "https://www.twitter.com/gatherandfeast"
+        },
+        "services": {
+            "hours": {
+                "monday": "11:00 - 22:00",
+                "tuesday": "11:00 - 22:00",
+                "wednesday": "11:00 - 22:00",
+                "thursday": "11:00 - 22:00",
+                "friday": "11:00 - 23:00",
+                "saturday": "10:00 - 23:00",
+                "sunday": "10:00 - 22:00"
+            },
+            "reservations": {
+                "online_booking": true,
+                "phone_booking": true
+            }
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "name": "Petit-déjeuner américain",
+                    "description": "Œufs brouillés, bacon, pommes de terre rissolées, toasts et café ou jus d'orange",
+                    "price": "12.99€"
+                },
+                {
+                    "name": "Assiette de fruits frais",
+                    "description": "Sélection de fruits frais de saison avec yaourt et granola",
+                    "price": "8.99€"
+                },
+                {
+                    "name": "Croissant au beurre",
+                    "description": "Croissant frais avec beurre et confiture, accompagné d'un café",
+                    "price": "3.99€"
+                }
+            ],
+            "lunch": [
+                {
+                    "name": "Salade César",
+                    "description": "Laitue romaine, poulet grillé, croûtons, parmesan et sauce César",
+                    "price": "14.99€"
+                },
+                {
+                    "name": "Burger maison",
+                    "description": "Steak de bœuf, cheddar, laitue, tomate et oignons rouges sur un bun brioché, servi avec frites maison",
+                    "price": "16.99€"
+                },
+                {
+                    "name": "Pâtes primavera",
+                    "description": "Pâtes avec une sauce aux légumes frais de saison et parmesan",
+                    "price": "13.99€"
+                },
+                {
+                    "name": "Club sandwich",
+                    "description": "Poulet grillé, bacon, laitue, tomate et mayonnaise sur trois étages de pain grillé, servi avec frites",
+                    "price": "15.99€"
+                }
+            ],
+            "dinner": [
+                {
+                    "name": "Entrecôte grillée",
+                    "description": "Entrecôte de bœuf grillée servie avec des pommes de terre au four et des légumes de saison",
+                    "price": "25.99€"
+                },
+                {
+                    "name": "Pâtes aux fruits de mer",
+                    "description": "Spaghetti avec une sauce aux fruits de mer faite maison",
+                    "price": "22.99€"
+                },
+                {
+                    "name": "Poulet rôti à l'ail",
+                    "description": "Poulet rôti avec une sauce à l'ail et des pommes de terre rôties",
+                    "price": "18.99€"
+                },
+                {
+                    "name": "Risotto aux champignons sauvages",
+                    "description": "Risotto crémeux aux champignons sauvages et parmesan",
+                    "price": "19.99€"
+                }
+            ]
+        },
+        "customer_reviews": [
+            {
+                "name": "Alice",
+                "rating": 5,
+                "comment": "Superbe ambiance et nourriture délicieuse ! Je reviendrai certainement."
+            },
+            {
+                "name": "Bob",
+                "rating": 4,
+                "comment": "Service un peu lent mais la qualité des plats était exceptionnelle."
+            },
+            {
+                "name": "Charlie",
+                "rating": 5,
+                "comment": "J'ai adoré l'atmosphère cosy du restaurant. Parfait pour un dîner en amoureux."
+            },
+            {
+                "name": "Emma",
+                "rating": 5,
+                "comment": "Les plats étaient magnifiquement présentés et délicieux. Un régal pour les yeux et les papilles."
+            },
+            {
+                "name": "Louis",
+                "rating": 4,
+                "comment": "Très bonne cuisine, mais un peu bruyant lors des heures de pointe."
+            }
+        ],
+        "reservations": [
+            {
+                "customer_name": "David",
+                "date": "2024-03-20",
+                "time": "19:30",
+                "party_size": 2,
+                "contact": "david@email.com"
+            },
+            {
+                "customer_name": "Emma",
+                "date": "2024-03-22",
+                "time": "20:00",
+                "party_size": 4,
+                "contact": "emma@example.com"
+            },
+            {
+                "customer_name": "Fabien",
+                "date": "2024-03-25",
+                "time": "18:00",
+                "party_size": 6,
+                "contact": "fabien@gmail.com"
+            },
+            {
+                "customer_name": "Sophie",
+                "date": "2024-03-27",
+                "time": "19:00",
+                "party_size": 3,
+                "contact": "sophie@example.com"
+            }
+        ]
+    }
+}

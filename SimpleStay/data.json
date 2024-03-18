@@ -1,0 +1,294 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Hôtel Lumière",
+            "location": "Paris, France",
+            "rating": 4.5,
+            "price_per_night": 120,
+            "amenities": [
+                "Wi-Fi gratuit",
+                "Petit-déjeuner inclus",
+                "Parking"
+            ],
+            "image_url": "https://example.com/hotel1.jpg",
+            "rooms": [
+                {
+                    "id": 101,
+                    "type": "Chambre simple",
+                    "occupancy": 1,
+                    "available": true,
+                    "price_per_night": 120
+                },
+                {
+                    "id": 102,
+                    "type": "Chambre double",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 150
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Grand Hôtel",
+            "location": "New York, USA",
+            "rating": 4.7,
+            "price_per_night": 200,
+            "amenities": [
+                "Wi-Fi gratuit",
+                "Petit-déjeuner inclus",
+                "Salle de sport"
+            ],
+            "image_url": "https://example.com/hotel2.jpg",
+            "rooms": [
+                {
+                    "id": 201,
+                    "type": "Suite",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 250
+                },
+                {
+                    "id": 202,
+                    "type": "Chambre familiale",
+                    "occupancy": 4,
+                    "available": true,
+                    "price_per_night": 350
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Sunset Resort",
+            "location": "Los Angeles, USA",
+            "rating": 4.3,
+            "price_per_night": 180,
+            "amenities": [
+                "Piscine",
+                "Restaurant sur place",
+                "Service de navette"
+            ],
+            "image_url": "https://example.com/hotel3.jpg",
+            "rooms": [
+                {
+                    "id": 301,
+                    "type": "Suite de luxe",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 300
+                },
+                {
+                    "id": 302,
+                    "type": "Chambre avec vue sur mer",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 200
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Montagne Lodge",
+            "location": "Geneva, Switzerland",
+            "rating": 4.6,
+            "price_per_night": 250,
+            "amenities": [
+                "Accès aux pistes de ski",
+                "Spa",
+                "Restaurant gastronomique"
+            ],
+            "image_url": "https://example.com/hotel4.jpg",
+            "rooms": [
+                {
+                    "id": 401,
+                    "type": "Chalet de luxe",
+                    "occupancy": 4,
+                    "available": true,
+                    "price_per_night": 500
+                },
+                {
+                    "id": 402,
+                    "type": "Chambre standard",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 200
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Seaview Hotel",
+            "location": "Sydney, Australia",
+            "rating": 4.8,
+            "price_per_night": 220,
+            "amenities": [
+                "Vue sur l'océan",
+                "Plage privée",
+                "Centre de plongée"
+            ],
+            "image_url": "https://example.com/hotel5.jpg",
+            "rooms": [
+                {
+                    "id": 501,
+                    "type": "Suite de luxe",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 350
+                },
+                {
+                    "id": 502,
+                    "type": "Chambre standard",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 220
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mountain View Inn",
+            "location": "Denver, USA",
+            "rating": 4.4,
+            "price_per_night": 150,
+            "amenities": [
+                "Vue sur les montagnes",
+                "Petit-déjeuner buffet",
+                "Piscine chauffée"
+            ],
+            "image_url": "https://example.com/hotel6.jpg",
+            "rooms": [
+                {
+                    "id": 601,
+                    "type": "Chambre simple",
+                    "occupancy": 1,
+                    "available": true,
+                    "price_per_night": 120
+                },
+                {
+                    "id": 602,
+                    "type": "Chambre double",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 150
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Harborview Hotel",
+            "location": "San Francisco, USA",
+            "rating": 4.6,
+            "price_per_night": 190,
+            "amenities": [
+                "Vue sur le port",
+                "Restaurant de fruits de mer",
+                "Spa"
+            ],
+            "image_url": "https://example.com/hotel7.jpg",
+            "rooms": [
+                {
+                    "id": 701,
+                    "type": "Suite avec balcon",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 280
+                },
+                {
+                    "id": 702,
+                    "type": "Chambre standard",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 190
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Riverfront Resort",
+            "location": "Vancouver, Canada",
+            "rating": 4.7,
+            "price_per_night": 210,
+            "amenities": [
+                "Vue sur la rivière",
+                "Centre de remise en forme",
+                "Sauna"
+            ],
+            "image_url": "https://example.com/hotel8.jpg",
+            "rooms": [
+                {
+                    "id": 801,
+                    "type": "Suite familiale",
+                    "occupancy": 4,
+                    "available": true,
+                    "price_per_night": 350
+                },
+                {
+                    "id": 802,
+                    "type": "Chambre double",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 220
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Paradise Resort",
+            "location": "Maui, Hawaii",
+            "rating": 4.9,
+            "price_per_night": 400,
+            "amenities": [
+                "Plage privée",
+                "Piscine à débordement",
+                "Restaurant en bord de mer"
+            ],
+            "image_url": "https://example.com/hotel9.jpg",
+            "rooms": [
+                {
+                    "id": 901,
+                    "type": "Bungalow sur la plage",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 600
+                },
+                {
+                    "id": 902,
+                    "type": "Suite de luxe",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 800
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Historic Inn",
+            "location": "London, UK",
+            "rating": 4.2,
+            "price_per_night": 130,
+            "amenities": [
+                "Architecture historique",
+                "Bar à cocktails",
+                "Service de conciergerie"
+            ],
+            "image_url": "https://example.com/hotel10.jpg",
+            "rooms": [
+                {
+                    "id": 1001,
+                    "type": "Chambre standard",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 130
+                },
+                {
+                    "id": 1002,
+                    "type": "Suite de charme",
+                    "occupancy": 2,
+                    "available": true,
+                    "price_per_night": 180
+                }
+            ]
+        }
+    ]
+}

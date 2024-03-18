@@ -1,0 +1,177 @@
+{
+    "cours": [
+        {
+            "nom": "Cours débutants",
+            "instructeur": "Maria Garcia",
+            "niveau": "Débutant",
+            "disponibilite": "Lundi 18h00 - 19h30",
+            "description": "Ce cours est destiné aux débutants absolus qui souhaitent apprendre les bases de la salsa. Aucune expérience préalable n'est nécessaire.",
+            "notes": [
+                {
+                    "utilisateur": "Alice123",
+                    "note": 4,
+                    "commentaire": "Excellent cours pour les débutants, instructeur très patient."
+                },
+                {
+                    "utilisateur": "Bob456",
+                    "note": 3,
+                    "commentaire": "Cours décent mais l'horaire ne me convient pas."
+                },
+                {
+                    "utilisateur": "Charlie789",
+                    "note": 5,
+                    "commentaire": "J'ai adoré ce cours, j'ai vraiment progressé grâce aux explications claires de l'instructeur."
+                }
+            ]
+        },
+        {
+            "nom": "Cours intermédiaires",
+            "instructeur": "Juan Martinez",
+            "niveau": "Intermédiaire",
+            "disponibilite": "Mercredi 19h00 - 20h30",
+            "description": "Ce cours s'adresse aux danseurs intermédiaires qui ont déjà une certaine expérience de la salsa et qui veulent améliorer leur technique et leur style.",
+            "notes": [
+                {
+                    "utilisateur": "David101",
+                    "note": 4,
+                    "commentaire": "Très bon cours, j'ai beaucoup appris."
+                },
+                {
+                    "utilisateur": "Emily202",
+                    "note": 5,
+                    "commentaire": "Instructeur fantastique, ambiance dynamique et conviviale."
+                },
+                {
+                    "utilisateur": "Frank303",
+                    "note": 3,
+                    "commentaire": "Cours correct mais j'aurais aimé plus de pratique."
+                }
+            ]
+        },
+        {
+            "nom": "Cours avancés",
+            "instructeur": "Ana Ramirez",
+            "niveau": "Avancé",
+            "disponibilite": "Vendredi 20h00 - 21h30",
+            "description": "Ce cours est réservé aux danseurs avancés qui maîtrisent déjà les techniques de base de la salsa et qui veulent perfectionner leur style et apprendre des chorégraphies plus complexes.",
+            "notes": [
+                {
+                    "utilisateur": "Grace404",
+                    "note": 5,
+                    "commentaire": "Instructeur incroyable, cours stimulant et divertissant."
+                },
+                {
+                    "utilisateur": "Henry505",
+                    "note": 4,
+                    "commentaire": "J'ai été impressionné par la qualité des cours et des chorégraphies proposées."
+                },
+                {
+                    "utilisateur": "Isabel606",
+                    "note": 3,
+                    "commentaire": "Cours un peu trop avancé pour moi, mais instructeur compétent."
+                }
+            ]
+        }
+    ],
+    "profils_utilisateur": [
+        {
+            "nom_utilisateur": "Alice123",
+            "email": "alice123@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours débutants",
+                    "note": 4,
+                    "commentaire": "Excellent cours pour les débutants, instructeur très patient."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Bob456",
+            "email": "bob456@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours débutants",
+                    "note": 3,
+                    "commentaire": "Cours décent mais l'horaire ne me convient pas."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Charlie789",
+            "email": "charlie789@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours débutants",
+                    "note": 5,
+                    "commentaire": "J'ai adoré ce cours, j'ai vraiment progressé grâce aux explications claires de l'instructeur."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "David101",
+            "email": "david101@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours intermédiaires",
+                    "note": 4,
+                    "commentaire": "Très bon cours, j'ai beaucoup appris."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Emily202",
+            "email": "emily202@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours intermédiaires",
+                    "note": 5,
+                    "commentaire": "Instructeur fantastique, ambiance dynamique et conviviale."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Frank303",
+            "email": "frank303@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours intermédiaires",
+                    "note": 3,
+                    "commentaire": "Cours correct mais j'aurais aimé plus de pratique."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Grace404",
+            "email": "grace404@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours avancés",
+                    "note": 5,
+                    "commentaire": "Instructeur incroyable, cours stimulant et divertissant."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Henry505",
+            "email": "henry505@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours avancés",
+                    "note": 4,
+                    "commentaire": "J'ai été impressionné par la qualité des cours et des chorégraphies proposées."
+                }
+            ]
+        },
+        {
+            "nom_utilisateur": "Isabel606",
+            "email": "isabel606@example.com",
+            "notes_donnes": [
+                {
+                    "cours": "Cours avancés",
+                    "note": 3,
+                    "commentaire": "Cours un peu trop avancé pour moi, mais instructeur compétent."
+                }
+            ]
+        }
+    ]
+}

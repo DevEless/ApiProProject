@@ -1,0 +1,134 @@
+{
+    "categories_boulangerie": [
+        {
+            "nom": "Pain",
+            "produits": [
+                {
+                    "nom": "Baguette traditionnelle",
+                    "image_url": "https://example.com/baguette.jpg",
+                    "description": "Une baguette croustillante et dorée, fabriquée selon une recette traditionnelle française. Elle est idéale pour accompagner vos repas ou pour préparer de délicieux sandwichs.",
+                    "note": 4.5,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Jeanne",
+                            "commentaire": "Délicieuse baguette, la croûte est parfaite !"
+                        },
+                        {
+                            "nom_client": "Pierre",
+                            "commentaire": "Le meilleur pain que j'ai jamais mangé, merci Bread & Bytes !"
+                        },
+                        {
+                            "nom_client": "Marie",
+                            "commentaire": "J'adore la baguette, elle est toujours fraîche et délicieuse !"
+                        }
+                    ]
+                },
+                {
+                    "nom": "Pain complet aux graines",
+                    "image_url": "https://example.com/pain_complet.jpg",
+                    "description": "Un pain complet aux graines, moelleux à l'intérieur et croustillant à l'extérieur. Il est fabriqué avec des ingrédients de qualité et est riche en fibres, idéal pour une alimentation équilibrée.",
+                    "note": 4.2,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Sophie",
+                            "commentaire": "Ce pain complet est parfait pour mes sandwichs, merci !"
+                        },
+                        {
+                            "nom_client": "Luc",
+                            "commentaire": "J'adore ce pain, je le recommande à tous mes amis."
+                        },
+                        {
+                            "nom_client": "Thomas",
+                            "commentaire": "Un pain complet délicieux, je ne peux plus m'en passer !"
+                        }
+                    ]
+                },
+                {
+                    "nom": "Pain aux noix",
+                    "image_url": "https://example.com/pain_noix.jpg",
+                    "description": "Un pain aux noix rustique, fait avec des noix fraîches et une pâte à pain moelleuse. Parfait pour accompagner un plateau de fromages ou pour un petit-déjeuner copieux.",
+                    "note": 4.6,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Marcel",
+                            "commentaire": "Ce pain aux noix est divin, j'en suis accro !"
+                        },
+                        {
+                            "nom_client": "Hélène",
+                            "commentaire": "Un délice pour les papilles, je le recommande chaudement !"
+                        },
+                        {
+                            "nom_client": "Émilie",
+                            "commentaire": "La saveur des noix dans ce pain est tout simplement incroyable !"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nom": "Pâtisserie",
+            "produits": [
+                {
+                    "nom": "Éclair au chocolat",
+                    "image_url": "https://example.com/eclair_chocolat.jpg",
+                    "description": "Un éclair moelleux garni de crème pâtissière au chocolat, surmonté d'un glaçage au chocolat fondant. Chaque bouchée est une explosion de saveurs chocolatées.",
+                    "note": 4.8,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Marie",
+                            "commentaire": "Les éclairs au chocolat de Bread & Bytes sont à tomber par terre !"
+                        },
+                        {
+                            "nom_client": "Antoine",
+                            "commentaire": "J'en commande régulièrement, toujours aussi délicieux !"
+                        },
+                        {
+                            "nom_client": "Léo",
+                            "commentaire": "L'éclair au chocolat est mon péché mignon, celui-ci est sublime !"
+                        }
+                    ]
+                },
+                {
+                    "nom": "Tarte aux fruits frais",
+                    "image_url": "https://example.com/tarte_fruits.jpg",
+                    "description": "Une délicieuse tarte aux fruits frais de saison, avec une croûte croustillante et une garniture généreuse. Parfaite pour une touche sucrée après un repas ou pour une occasion spéciale.",
+                    "note": 4.6,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Julie",
+                            "commentaire": "La tarte aux fruits était magnifique et délicieuse !"
+                        },
+                        {
+                            "nom_client": "Marc",
+                            "commentaire": "Un régal pour les papilles, je recommande vivement !"
+                        },
+                        {
+                            "nom_client": "Élodie",
+                            "commentaire": "Cette tarte aux fruits est un vrai délice, je la recommande !"
+                        }
+                    ]
+                },
+                {
+                    "nom": "Mille-feuille",
+                    "image_url": "https://example.com/mille_feuille.jpg",
+                    "description": "Un classique de la pâtisserie française, composé de couches de pâte feuilletée croustillante et de crème pâtissière légère. C'est un dessert raffiné qui ravira vos invités.",
+                    "note": 4.7,
+                    "commentaires_clients": [
+                        {
+                            "nom_client": "Léa",
+                            "commentaire": "Le mille-feuille est mon dessert préféré, et celui-ci est exceptionnel !"
+                        },
+                        {
+                            "nom_client": "Théo",
+                            "commentaire": "Un délice à chaque bouchée, je reviendrai sûrement en commander !"
+                        },
+                        {
+                            "nom_client": "Sophie",
+                            "commentaire": "Le mille-feuille est un vrai régal, je suis conquise !"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
