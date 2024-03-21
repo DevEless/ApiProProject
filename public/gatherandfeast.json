@@ -1,4 +1,4 @@
-[{
+{
     "restaurant": {
         "name": "Gather & Feast",
         "description": "Un restaurant qui se distingue par son ambiance chaleureuse et son engagement envers une cuisine de qualité. Situé au cœur de la ville, Gather & Feast offre une expérience culinaire inoubliable pour les amateurs de bonne nourriture.",
@@ -33,120 +33,131 @@
                 {
                     "name": "Petit-déjeuner américain",
                     "description": "Œufs brouillés, bacon, pommes de terre rissolées, toasts et café ou jus d'orange",
-                    "price": "12.99€"
+                    "price": "12.99€",
+                    "image": "https://media.istockphoto.com/id/166474007/fr/photo/des-%C5%93ufs-brouill%C3%A9s-et-des-saucisses.jpg?s=1024x1024&w=is&k=20&c=816DhsIDpfv0omlvB0RPG76ILSjgs1t7yastRVU8518="
                 },
                 {
                     "name": "Assiette de fruits frais",
                     "description": "Sélection de fruits frais de saison avec yaourt et granola",
-                    "price": "8.99€"
+                    "price": "8.99€",
+                    "image": "https://media.istockphoto.com/id/1005741226/fr/photo/salade-d%C3%A9pinards-avec-fraises-fromage-de-ch%C3%A8vre-balsamique-et-noix.jpg?s=1024x1024&w=is&k=20&c=wEYWP6p2A2DwPQZpRHb3M5ilHF-f4RQqGR5ih-ylwjU="
                 },
                 {
                     "name": "Croissant au beurre",
                     "description": "Croissant frais avec beurre et confiture, accompagné d'un café",
-                    "price": "3.99€"
+                    "price": "3.99€",
+                    "image": "https://media.istockphoto.com/id/1356342104/fr/photo/des-croissants-frais-croustillants-une-tasse-de-caf%C3%A9-et-de-la-confiture-dans-un-bol-sur-une.jpg?s=1024x1024&w=is&k=20&c=MW735tRVsm67QITB_wUC33Xlg3gksCwJYRhyRTsWLSI="
                 }
             ],
             "lunch": [
                 {
                     "name": "Salade César",
                     "description": "Laitue romaine, poulet grillé, croûtons, parmesan et sauce César",
-                    "price": "14.99€"
+                    "price": "14.99€",
+                    "image": "https://media.istockphoto.com/id/1338803225/fr/photo/salade-c%C3%A9sar-au-poulet-avec-la-vinaigrette-classique-vers%C3%A9e-et-cro%C3%BBtons.jpg?s=1024x1024&w=is&k=20&c=U2EuEqAoDffspP84yqQ6B9o-_QZQFuVhpejDa12daek="
                 },
                 {
                     "name": "Burger maison",
                     "description": "Steak de bœuf, cheddar, laitue, tomate et oignons rouges sur un bun brioché, servi avec frites maison",
-                    "price": "16.99€"
+                    "price": "16.99€",
+                    "image": "https://media.istockphoto.com/id/1498243668/fr/photo/cheeseburger-savoureux-avec-laitue-fromage-cheddar-tomate-et-cornichons-petit-pain-burger-aux.jpg?s=1024x1024&w=is&k=20&c=S4yF10zTE3WAnxGD8B3VD9W_W-xyW3IxWeWZUo0Z3NY="
                 },
                 {
                     "name": "Pâtes primavera",
                     "description": "Pâtes avec une sauce aux légumes frais de saison et parmesan",
-                    "price": "13.99€"
+                    "price": "13.99€",
+                    "image": "https://media.istockphoto.com/id/927141722/fr/photo/p%C3%A2tes-primavera-aux-l%C3%A9gumes-de-printemps.jpg?s=1024x1024&w=is&k=20&c=DKykgJsMagdafzRiT3Moe4J-kEWs5FF8Fe-JndnQFrk="
                 },
                 {
                     "name": "Club sandwich",
                     "description": "Poulet grillé, bacon, laitue, tomate et mayonnaise sur trois étages de pain grillé, servi avec frites",
-                    "price": "15.99€"
+                    "price": "15.99€",
+                    "image": "https://media.istockphoto.com/id/1351141504/fr/photo/petits-sandwichs-sur-une-planche-de-bois-sandwichs-traiteur-avec-salade-de-fromage-et-viande.jpg?s=1024x1024&w=is&k=20&c=B8VXoKTb_tU76GMY-SwOhnieAqkqjKSmy48EtGjc0BQ="
                 }
             ],
             "dinner": [
                 {
                     "name": "Entrecôte grillée",
                     "description": "Entrecôte de bœuf grillée servie avec des pommes de terre au four et des légumes de saison",
-                    "price": "25.99€"
+                    "price": "25.99€",
+                    "image": "https://media.istockphoto.com/id/1674627355/fr/photo/assiette-dun-steak-dentrec%C3%B4te-au-sel-grill%C3%A9-au-barbecue.jpg?s=1024x1024&w=is&k=20&c=G30Ht1FSmfclyANBQXacYrZdEmC3coau8j1cZnOLBk0="
                 },
                 {
                     "name": "Pâtes aux fruits de mer",
                     "description": "Spaghetti avec une sauce aux fruits de mer faite maison",
-                    "price": "22.99€"
-                },
-                {
+                    "price": "22.99€",
+                    "image": "https://media.istockphoto.com/id/510082826/fr/photo/p%C3%A2tes-italiennes-aux-fruits-de-mer-et-des-herbes.jpg?s=1024x1024&w=is&k=20&c=BSy9kJb8jt2BnzSfiBDmuNYcjChRWP0fU6BSNg_P014="
+                    },
+                    {
                     "name": "Poulet rôti à l'ail",
                     "description": "Poulet rôti avec une sauce à l'ail et des pommes de terre rôties",
-                    "price": "18.99€"
-                },
-                {
+                    "price": "18.99€",
+                    "image": "https://media.istockphoto.com/id/467639228/fr/photo/maison-et-du-poulet-aux-herbes-et-au-citron.jpg?s=1024x1024&w=is&k=20&c=UpC-xSdOuLSbooF5Sph7-ygBxCM08UXr2-mjFcriack="
+                    },
+                    {
                     "name": "Risotto aux champignons sauvages",
                     "description": "Risotto crémeux aux champignons sauvages et parmesan",
-                    "price": "19.99€"
-                }
-            ]
-        },
-        "customer_reviews": [
-            {
-                "name": "Alice",
-                "rating": 5,
-                "comment": "Superbe ambiance et nourriture délicieuse ! Je reviendrai certainement."
-            },
-            {
-                "name": "Bob",
-                "rating": 4,
-                "comment": "Service un peu lent mais la qualité des plats était exceptionnelle."
-            },
-            {
-                "name": "Charlie",
-                "rating": 5,
-                "comment": "J'ai adoré l'atmosphère cosy du restaurant. Parfait pour un dîner en amoureux."
-            },
-            {
-                "name": "Emma",
-                "rating": 5,
-                "comment": "Les plats étaient magnifiquement présentés et délicieux. Un régal pour les yeux et les papilles."
-            },
-            {
-                "name": "Louis",
-                "rating": 4,
-                "comment": "Très bonne cuisine, mais un peu bruyant lors des heures de pointe."
-            }
-        ],
-        "reservations": [
-            {
-                "customer_name": "David",
-                "date": "2024-03-20",
-                "time": "19:30",
-                "party_size": 2,
-                "contact": "david@email.com"
-            },
-            {
-                "customer_name": "Emma",
-                "date": "2024-03-22",
-                "time": "20:00",
-                "party_size": 4,
-                "contact": "emma@example.com"
-            },
-            {
-                "customer_name": "Fabien",
-                "date": "2024-03-25",
-                "time": "18:00",
-                "party_size": 6,
-                "contact": "fabien@gmail.com"
-            },
-            {
-                "customer_name": "Sophie",
-                "date": "2024-03-27",
-                "time": "19:00",
-                "party_size": 3,
-                "contact": "sophie@example.com"
-            }
-        ]
-    }
-}]
+                    "price": "19.99€",
+                    "image": "https://media.istockphoto.com/id/1368433094/fr/photo/risotto-aux-champignons-fromage-et-thym-nourriture-v%C3%A9g%C3%A9tarienne-cuisine-italienne.jpg?s=1024x1024&w=is&k=20&c=nHHQ9u14swMNVqxLquwMkdIENJfYysZFzQUGtPA40YA="
+                    }
+                    ]
+                    },
+                    "customer_reviews": [
+                    {
+                    "name": "Alice",
+                    "rating": 5,
+                    "comment": "Superbe ambiance et nourriture délicieuse ! Je reviendrai certainement."
+                    },
+                    {
+                    "name": "Bob",
+                    "rating": 4,
+                    "comment": "Service un peu lent mais la qualité des plats était exceptionnelle."
+                    },
+                    {
+                    "name": "Charlie",
+                    "rating": 5,
+                    "comment": "J'ai adoré l'atmosphère cosy du restaurant. Parfait pour un dîner en amoureux."
+                    },
+                    {
+                    "name": "Emma",
+                    "rating": 5,
+                    "comment": "Les plats étaient magnifiquement présentés et délicieux. Un régal pour les yeux et les papilles."
+                    },
+                    {
+                    "name": "Louis",
+                    "rating": 4,
+                    "comment": "Très bonne cuisine, mais un peu bruyant lors des heures de pointe."
+                    }
+                    ],
+                    "reservations": [
+                    {
+                    "customer_name": "David",
+                    "date": "2024-03-20",
+                    "time": "19:30",
+                    "party_size": 2,
+                    "contact": "david@email.com"
+                    },
+                    {
+                    "customer_name": "Emma",
+                    "date": "2024-03-22",
+                    "time": "20:00",
+                    "party_size": 4,
+                    "contact": "emma@example.com"
+                    },
+                    {
+                    "customer_name": "Fabien",
+                    "date": "2024-03-25",
+                    "time": "18:00",
+                    "party_size": 6,
+                    "contact": "fabien@gmail.com"
+                    },
+                    {
+                    "customer_name": "Sophie",
+                    "date": "2024-03-27",
+                    "time": "19:00",
+                    "party_size": 3,
+                    "contact": "sophie@example.com"
+                    }
+                    ]
+                    }
+                    }
