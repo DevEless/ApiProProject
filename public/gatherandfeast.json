@@ -31,18 +31,21 @@
         "menus": {
             "breakfast": [
                 {
+                    "id": 1,
                     "name": "Petit-déjeuner américain",
                     "description": "Œufs brouillés, bacon, pommes de terre rissolées, toasts et café ou jus d'orange",
                     "price": "12.99€",
                     "image": "https://images.pexels.com/photos/4790315/pexels-photo-4790315.jpeg"
                 },
                 {
+                    "id": 2,
                     "name": "Assiette de fruits frais",
                     "description": "Sélection de fruits frais de saison avec yaourt et granola",
                     "price": "8.99€",
                     "image": "https://images.pexels.com/photos/1833332/pexels-photo-1833332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 },
                 {
+                    "id": 3,
                     "name": "Croissant au beurre",
                     "description": "Croissant frais avec beurre et confiture, accompagné d'un café",
                     "price": "3.99€",
@@ -51,50 +54,58 @@
             ],
             "lunch": [
                 {
+                    "id": 4,
                     "name": "Salade César",
                     "description": "Laitue romaine, poulet grillé, croûtons, parmesan et sauce César",
                     "price": "14.99€",
                     "image": "https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 },
                 {
+                    "id": 5,
                     "name": "Burger maison",
                     "description": "Steak de bœuf, cheddar, laitue, tomate et oignons rouges sur un bun brioché, servi avec frites maison",
                     "price": "16.99€",
                     "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 },
                 {
+                    "id": 6,
                     "name": "Pâtes primavera",
                     "description": "Pâtes avec une sauce aux légumes frais de saison et parmesan",
                     "price": "13.99€",
                     "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 },
                 {
+                    "id": 7,
                     "name": "Club sandwich",
                     "description": "Poulet grillé, bacon, laitue, tomate et mayonnaise sur trois étages de pain grillé, servi avec frites",
                     "price": "15.99€",
                     "image": "https://images.pexels.com/photos/6529599/pexels-photo-6529599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                }
-            ],
-            "dinner": [
-                {
+                    }
+                    ],
+                    "dinner": [
+                    {
+                    "id": 8,
                     "name": "Entrecôte grillée",
                     "description": "Entrecôte de bœuf grillée servie avec des pommes de terre au four et des légumes de saison",
                     "price": "25.99€",
                     "image": "https://images.pexels.com/photos/18176521/pexels-photo-18176521/free-photo-of-nourriture-assiette-diner-dejeuner.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                },
-                {
+                    },
+                    {
+                    "id": 9,
                     "name": "Pâtes aux fruits de mer",
                     "description": "Spaghetti avec une sauce aux fruits de mer faite maison",
                     "price": "22.99€",
                     "image": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                     },
                     {
+                    "id": 10,
                     "name": "Poulet rôti à l'ail",
                     "description": "Poulet rôti avec une sauce à l'ail et des pommes de terre rôties",
                     "price": "18.99€",
                     "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                     },
                     {
+                    "id": 11,
                     "name": "Risotto aux champignons sauvages",
                     "description": "Risotto crémeux aux champignons sauvages et parmesan",
                     "price": "19.99€",
